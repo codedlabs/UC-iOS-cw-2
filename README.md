@@ -92,7 +92,7 @@
 <br>
 <br>
 
- <h1 align="right">التمرين 3 </h1>
+ <h1 align="right">تمرين إضافي  ✨✨✨ </h1>
 
 <p dir="rtl">
 <img src="/cw3.gif" width="200" alt="alt_text" title="image_tooltip">
